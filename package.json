@@ -1,0 +1,17 @@
+{
+  "name": "mee6-destroyer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.11.0",
+    "dotenv": "^16.0.3",
+    "chalk": "^4.1.2"
+  }
+}
